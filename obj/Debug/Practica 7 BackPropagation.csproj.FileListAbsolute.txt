@@ -1,0 +1,44 @@
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe.config
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.pdb
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.AssemblyReference.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.SuggestedBindingRedirects.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Backpropagation.resources
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Properties.Resources.resources
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.GenerateResource.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.CoreCompileInputs.cache
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.exe
+A:\CarlosRivera\Escritorio\Agentes Inteligentes\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.pdb
+D:\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe.config
+D:\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe
+D:\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.pdb
+D:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.AssemblyReference.cache
+D:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.SuggestedBindingRedirects.cache
+D:\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Backpropagation.resources
+D:\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Properties.Resources.resources
+D:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.GenerateResource.cache
+D:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.CoreCompileInputs.cache
+D:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.exe
+D:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.pdb
+E:\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe.config
+E:\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe
+E:\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.pdb
+E:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.AssemblyReference.cache
+E:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.SuggestedBindingRedirects.cache
+E:\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Backpropagation.resources
+E:\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Properties.Resources.resources
+E:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.GenerateResource.cache
+E:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.CoreCompileInputs.cache
+E:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.exe
+E:\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.pdb
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe.config
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.exe
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\bin\Debug\Practica 7 BackPropagation.pdb
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.AssemblyReference.cache
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.SuggestedBindingRedirects.cache
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Backpropagation.resources
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica_7_BackPropagation.Properties.Resources.resources
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.GenerateResource.cache
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.csproj.CoreCompileInputs.cache
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.exe
+A:\CarlosRivera\Escritorio\Practica 7 BackPropagation\obj\Debug\Practica 7 BackPropagation.pdb
